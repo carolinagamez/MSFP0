@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información de la estudiante
-Carolina Gamez Flores [l23212193@tijuana.tecnm.mx]
+Carolina Gamez Flores 23212193 [l23212193@tijuana.tecnm.mx]
 
 Modelado de Sistemas Fisiológicos
 
